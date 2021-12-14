@@ -1,0 +1,7 @@
+com\rv\librarysockets\LibraryServer.class
+com\rv\librarysockets\model\ClientRequest.class
+com\rv\librarysockets\ClientSocket.class
+com\rv\librarysockets\service\BookService.class
+com\rv\librarysockets\model\Book.class
+com\rv\librarysockets\LibraryClient.class
+com\rv\librarysockets\service\BookService$1.class
